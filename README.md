@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Konrad Duda
 
-<!--
-**hightt/hightt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as a **PHP Developer at Primesoft Polska**.  
+In my free time, I develop a **Human Resource Management** system as a personal project.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Backend**: PHP 7.4 / 8.0 / 8.1 / 8.3, Symfony 7  
+- **Database**: MySQL, MSSQL  
+- **Frontend**: jQuery, HTML, CSS  
+- **Messaging**: RabbitMQ  
+- **Testing**: PHPUnit  
+- **Data & Reporting**: Power BI
+
+---
+
+## 🚀 About Me
+
+- 🧠 Always learning and experimenting with new technologies  
+- 💼 Focused on clean, maintainable, and testable code  
+- 🛠️ Passionate about backend development and system architecture
+
+---
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories or reach out if you’d like to collaborate!
+
+📧 konrad.duda121@gmail.com
