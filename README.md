@@ -9,7 +9,7 @@ In my free time, I develop a **Human Resource Management** system as a personal 
 
 - **Backend**: PHP 7.4 / 8.0 / 8.1 / 8.3, Symfony 7  
 - **Database**: MySQL, MSSQL  
-- **Frontend**: jQuery, HTML, CSS  
+- **Frontend**: jQuery, HTML, CSS, Bootstrap 5
 - **Messaging**: RabbitMQ  
 - **Testing**: PHPUnit  
 - **Data & Reporting**: Power BI
